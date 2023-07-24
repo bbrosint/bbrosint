@@ -5,8 +5,8 @@
 
 This is the company account of Bredebrothers UG (https://bredebrothers.de )
 
-- 🔭 We are currently working on a digitalization project
-- 🌱 We are constantly learning and looking for new trends in AI and digitalization
+- 🔭 We are currently working on a digitization project
+- 🌱 We are constantly learning and looking for new trends in AI and digitization
 - 👯 We are looking to collaborate on open source projects
 - 💬 Ask us about our services being delivered by our subsidiary Brengtech GmbH https://brengtech.de
 - 📫 How to reach us: info@brengtech.de
